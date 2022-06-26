@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">Pursuing my B.E in Electronics & Communication, with a keen interest in Software & Web Development. </h3>
-<h3 align="center">I love saving files as .py</h3>
+<h3 align="center">Also, "I love saving files as .py"</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhuzaifapatel&label=Profile%20views&color=0e75b6&style=flat" alt="mdhuzaifapatel" /> </p>
