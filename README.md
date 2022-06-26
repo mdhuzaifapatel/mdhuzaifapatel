@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">Pursuing my BE in Electronics & Communication</h3>
+<h3 align="center">with a keen interest in Software Development, Web Development</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhuzaifapatel&label=Profile%20views&color=0e75b6&style=flat" alt="mdhuzaifapatel" /> </p>
 
