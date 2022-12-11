@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
-<h3 align="center">Pursuing my B.E in Electronics & Communication, with a keen interest in 🖥️ Software & Web Development 🖥️ </h3>
+<h3 align="center">Pursuing my B.E in EC, with a keen interest in 🖥️ Software & Web Development 🖥️ </h3>
 <h3 align="center">❤️ "I love saving files as .py"</h3>
 
 
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/mdhuzaifapatel" target="blank"><img src="https://img.shields.io/twitter/follow/mdhuzaifapatel?logo=twitter&style=for-the-badge" alt="mdhuzaifapatel" /></a> </p>
 
 - 📫 How to reach me:
-- Visit my website: **mdhuzaifa.tech**
+- Visit my website: **[mdhuzaifa.tech](https://mdhuzaifa.tech/)**
 - Email: **mdhuzaifapatel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
