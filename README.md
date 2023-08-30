@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
-<h3 align="center">Pursuing my B.E in EC, with a keen interest in 🖥️ Software & Web Development 🖥️ </h3>
+<h3 align="center">B.E Graduate, with a keen interest in 🖥️ Software & Web Development 🖥️ </h3>
 <h3 align="center">❤️ "I love saving files as .py"</h3>
 
 
