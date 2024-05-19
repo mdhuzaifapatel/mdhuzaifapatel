@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/mdhuzaifapatel" target="blank"><img src="https://img.shields.io/twitter/follow/mdhuzaifapatel?logo=twitter&style=for-the-badge" alt="mdhuzaifapatel" /></a> </p>
 
 - 📫 How to reach me:
-- Visit my website: **[mdhuzaifa.tech](https://mdhuzaifa.tech/)**
+- Visit my website: **[mdhuzaifa.netlify.app](https://mdhuzaifa.netlify.app/)**
 - Email: **mdhuzaifapatel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
